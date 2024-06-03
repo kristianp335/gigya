@@ -1,0 +1,64 @@
+{
+    "callId": "225ead733e2d4b4f89dc5e74bbbf6a58",
+    "errorCode": 0,
+    "apiVersion": 2,
+    "statusCode": 200,
+    "statusReason": "OK",
+    "time": "2024-04-30T07:59:55.471Z",
+    "results": [
+        {
+            "lastUpdatedTimestamp": 1682726108202,
+            "subscriptions": {
+                "B90105": {
+                    "email": {
+                        "isSubscribed": true,
+                        "lastUpdatedSubscriptionState": "2023-04-28T23:55:08.189Z",
+                        "doubleOptIn": {
+                            "status": "NotConfirmed"
+                        }
+                    }
+                }
+            },
+            "data": {
+                "US_AgeConsent": {
+                    "lastUpdated": "2020-06-25T13:57:24.716Z",
+                    "isConsentGranted": "true"
+                },
+                "US_Corporate_PrivacyPolicy": {
+                    "lastUpdated": "2020-06-25T13:57:24.716Z",
+                    "isConsentGranted": "true"
+                },
+                "US_migratedUID": "dbe173456534543e682f4660bddc96",
+                "US_LanguagePref": {
+                    "B90105": "en"
+                },
+                "US_TermsAndConditions": {
+                    "lastUpdated": "2020-06-25T13:57:24.716Z",
+                    "isConsentGranted": "true"
+                }
+            },
+            "created": "2023-04-28T23:55:08.188Z",
+            "createdTimestamp": 1682726108188,
+            "profile": {
+                "zip": "77354",
+                "birthDay": 14,
+                "birthMonth": 4,
+                "firstName": "<firstName>",
+                "lastName": "<lastName>",
+                "gender": "f",
+                "birthYear": 1961,
+                "email": "<email@gmail.com>",
+                "age": 60
+            },
+            "channel": "email",
+            "token": "413173efc1282ab0fb7995615de3a598b5dd784e0ef4679e5cd92b53d50416e3",
+            "lastUpdated": "2023-04-28T23:55:08.202Z",
+            "UID": "554354353656b15c8ebbff06c147",
+            "hasLiteAccount": true,
+            "hasFullAccount": false,
+            "email": "<email@gmail.com>"
+        }
+    ],
+    "objectsCount": 1,
+    "totalCount": 2306669
+}

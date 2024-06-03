@@ -1,0 +1,103 @@
+{
+    "callId": "8692a3793e6e4e3e88fdedfc36ef5c50",
+    "errorCode": 0,
+    "apiVersion": 2,
+    "statusCode": 200,
+    "statusReason": "OK",
+    "time": "2024-04-30T07:55:02.566Z",
+    "results": [
+        {
+            "socialProviders": "site",
+            "lastLogin": "2024-01-29T09:56:07.122Z",
+            "data": {
+                "US_AgeConsent": {
+                    "lastUpdated": "2024-01-29T09:56:06.182Z",
+                    "isConsentGranted": true
+                },
+                "US_LanguagePref": {
+                    "B90155": "en"
+                },
+                "US_Corporate_PrivacyPolicy": {
+                    "lastUpdated": "2024-01-29T09:56:06.182Z",
+                    "isConsentGranted": true
+                },
+                "regSource": {
+                    "date": "2024-01-29T09:56:06.182Z",
+                    "location": "https://nicorette.com",
+                    "source": "bigCommerceUser"
+                },
+                "addressesArray": "[]",
+                "US_TermsAndConditions": {
+                    "lastUpdated": "2024-01-29T09:56:06.182Z",
+                    "isConsentGranted": true
+                },
+                "commerceId": 633
+            },
+            "isVerified": false,
+            "registered": "2024-01-29T09:56:07.097Z",
+            "isActive": true,
+            "oldestDataUpdatedTimestamp": 1706522166937,
+            "emails": {
+                "verified": [],
+                "unverified": [
+                    "<email@gmail.com>"
+                ]
+            },
+            "lastUpdated": "2024-01-29T09:56:07.097Z",
+            "password": {
+                "created": "2024-01-29T09:56:06.962Z",
+                "hashSettings": {
+                    "salt": "uHN/+64578A8bwgchGvo8Q==",
+                    "rounds": 10000,
+                    "algorithm": "pbkdf2_sha512"
+                },
+                "hash": "BMyOiZny7h6n5HalyGKuRYxo1A="
+            },
+            "identities": [
+                {
+                    "oldestDataUpdatedTimestamp": 1706522166937,
+                    "providerUID": "710f452269394969bcbcd7d1061dad97",
+                    "lastUpdated": "2024-01-29T09:56:07.122Z",
+                    "firstName": "<firstName>",
+                    "isExpiredSession": false,
+                    "lastName": "<lastName>",
+                    "provider": "site",
+                    "oldestDataUpdated": "2024-01-29T09:56:06.937Z",
+                    "email": "<email@gmail.com>",
+                    "lastUpdatedTimestamp": 1706522167122,
+                    "isLoginIdentity": true,
+                    "allowsLogin": true
+                }
+            ],
+            "oldestDataUpdated": "2024-01-29T09:56:06.937Z",
+            "lastUpdatedTimestamp": 1706522167097,
+            "created": "2024-01-29T09:56:06.937Z",
+            "createdTimestamp": 1706522166937,
+            "profile": {
+                "lastName": "<lastName>",
+                "email": "<email@gmail.com>",
+                "firstName": "<firstName>"
+            },
+            "lastLoginLocation": {
+                "country": "DE",
+                "coordinates": {
+                    "lon": 8.68,
+                    "lat": 50.11
+                }
+            },
+            "registeredTimestamp": 1706522167097,
+            "loginProvider": "site",
+            "lastLoginTimestamp": 1706522167122,
+            "UID": "710f452269394969bcbcd7d1061dad97",
+            "isRegistered": true,
+            "loginIDs": {
+                "emails": [
+                    "<email@gmail.com>"
+                ],
+                "unverifiedEmails": []
+            }
+        }
+    ],
+    "objectsCount": 1,
+    "totalCount": 5107
+}

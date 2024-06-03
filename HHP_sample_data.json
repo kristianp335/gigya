@@ -1,0 +1,111 @@
+{
+    "callId": "60d9e685c1db40aeb108c45696331a25",
+    "errorCode": 0,
+    "apiVersion": 2,
+    "statusCode": 200,
+    "statusReason": "OK",
+    "time": "2024-04-30T07:50:16.630Z",
+    "results": [
+        {
+            "socialProviders": "site",
+            "data": {
+                "gep": {
+                    "registrationReferrer": "/en-us/samples/",
+                    "lastName": "<lastName>",
+                    "addressZIP": "53020",
+                    "ADANumber": "T177010396",
+                    "addressState": "OK",
+                    "firstName": "<firstName>",
+                    "practiceName": "<practiceName>",
+                    "validationMethod": "CIAM-GEP-OPTION2",
+                    "addressLine1": "<addressLine1>",
+                    "middleName": "<middleName>",
+                    "graduationYear": "2001",
+                    "rejectionReason": "003",
+                    "addressCity": "CHICAGO"
+                },
+                "NPI": "1568220648",
+                "ADDRESS": {
+                    "ZIP": "53020",
+                    "COUNTRY": "US",
+                    "CITY": "<CITY>",
+                    "STATE": "OK",
+                    "LINE1": "<LINE1>"
+                },
+                "PROFESSION": "Dental Professional",
+                "SPECIALITY": "003",
+                "LEGALID": "5565",
+                "PROFESSIONALID": "1568220648",
+                "CRMID": "0010B000021COttQAG",
+                "CRMVALIDATIONSTATUS": "REJECTED_PROCESSED"
+            },
+            "isVerified": false,
+            "registered": "2022-02-22T15:15:33.849Z",
+            "isActive": true,
+            "oldestDataUpdatedTimestamp": 1645542933636,
+            "emails": {
+                "verified": [],
+                "unverified": [
+                    "<unverified_email_addres>"
+                ]
+            },
+            "lastUpdated": "2023-10-20T11:10:37.007Z",
+            "password": {
+                "created": "2022-02-22T15:15:33.677Z",
+                "hashSettings": {
+                    "salt": "BZ/TpPAW5BRc+0Wbth3MCA==",
+                    "rounds": 10000,
+                    "algorithm": "pbkdf2"
+                },
+                "hash": "eaGHVtzgdffYD2fenHQ4RlD3udY="
+            },
+            "identities": [
+                {
+                    "oldestDataUpdatedTimestamp": 1645542933636,
+                    "providerUID": "f419335444cc44a4877e72a353e378b2",
+                    "lastUpdated": "2023-10-20T11:10:36.935Z",
+                    "work": {
+                        "company": "<company>"
+                    },
+                    "firstName": "<firstName>",
+                    "isExpiredSession": false,
+                    "lastName": "<lastName>",
+                    "gender": "f",
+                    "locale": "en",
+                    "provider": "site",
+                    "oldestDataUpdated": "2022-02-22T15:15:33.636Z",
+                    "email": "email@outlook.com",
+                    "lastUpdatedTimestamp": 1697800236935,
+                    "isLoginIdentity": false,
+                    "allowsLogin": true
+                }
+            ],
+            "oldestDataUpdated": "2022-02-22T15:15:33.636Z",
+            "lastUpdatedTimestamp": 1697800237007,
+            "created": "2022-02-22T15:15:33.636Z",
+            "createdTimestamp": 1645542933636,
+            "profile": {
+                "lastName": "<lastName>",
+                "gender": "f",
+                "locale": "en",
+                "email": "email@outlook.com",
+                "work": {
+                    "company": "<company>"
+                },
+                "firstName": "<firstName>"
+            },
+            "regSource": "https://www.gskhealthpartner.com/en-us/registration/",
+            "registeredTimestamp": 1645542933849,
+            "UID": "f419335444cc44a4877e72a353e378b2",
+            "isRegistered": true,
+            "loginIDs": {
+                "emails": [],
+                "unverifiedEmails": [
+                    "<unverified_email_addres>"
+                ]
+            }
+        }
+    ],
+    "objectsCount": 1,
+    "totalCount": 84596
+}
